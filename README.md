@@ -1,0 +1,2 @@
+# COVID19_Model
+The COVID-19 outbreak was simulated in this study using a GIS-based agent-based model, and the effectiveness of two public policy efforts (i.e., mobility restrictions and self-isolation interventions) undertaken in Montreal, Quebec, to control the epidemic in 2021 was assessed. Using a thorough and realistic examination of people's interactions and mobility based on geographical data, the development of the COVID-19 spread was investigated.
